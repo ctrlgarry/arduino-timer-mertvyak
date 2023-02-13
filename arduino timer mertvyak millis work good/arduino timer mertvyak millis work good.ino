@@ -1,5 +1,3 @@
-// Iluha loh - trusy v goroh!
-#include <Adafruit_LiquidCrystal.h>
 #include <LiquidCrystal_I2C.h> // подключаем библиотеку для QAPASS 16x2
 
 LiquidCrystal_I2C LCD(0x27,16,2); // присваиваем имя LCD для дисплея
